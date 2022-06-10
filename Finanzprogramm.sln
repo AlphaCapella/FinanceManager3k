@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Finanzprogramm", "Finanzprogramm\Finanzprogramm.vcxproj", "{EAC51801-557E-4A36-B0EC-A860BA012230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC51801-557E-4A36-B0EC-A860BA012230}.Debug|x64.ActiveCfg = Debug|x64
+		{EAC51801-557E-4A36-B0EC-A860BA012230}.Debug|x64.Build.0 = Debug|x64
+		{EAC51801-557E-4A36-B0EC-A860BA012230}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAC51801-557E-4A36-B0EC-A860BA012230}.Debug|x86.Build.0 = Debug|Win32
+		{EAC51801-557E-4A36-B0EC-A860BA012230}.Release|x64.ActiveCfg = Release|x64
+		{EAC51801-557E-4A36-B0EC-A860BA012230}.Release|x64.Build.0 = Release|x64
+		{EAC51801-557E-4A36-B0EC-A860BA012230}.Release|x86.ActiveCfg = Release|Win32
+		{EAC51801-557E-4A36-B0EC-A860BA012230}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CA4E46-EC3A-4EA8-A906-86D319578076}
+	EndGlobalSection
+EndGlobal
